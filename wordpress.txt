@@ -1,0 +1,6 @@
+#wordpress deetails 
+details for wordpress site 
+//responsive
+///using color
+////using aws microservices 
+/////using multiple redundencies in aws
